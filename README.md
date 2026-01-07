@@ -24,6 +24,7 @@ Core Features
   
   Recommendation Plan: Offers practical and actionable suggestions for psychological adjustment and lifestyle improvement.
 
+
 Technical Architecture
   Frontend Interface
   User input panel (text/voice)
@@ -41,6 +42,7 @@ Technical Architecture
   
   Report Generation Engine: Personalized recommendations and report generation.
 
+
 Integrated Technologies
   Large Language Model (LLM): Powers dialogue and psychological analysis.
   
@@ -49,6 +51,7 @@ Integrated Technologies
   Social Media APIs: Data retrieval from X and Instagram.
   
   Speech Synthesis Engine: High-quality voice output.
+
 
 Installation and Deployment
   Environment Requirements
