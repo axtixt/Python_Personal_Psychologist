@@ -26,6 +26,7 @@ Core Features
 
 
 Technical Architecture
+
   Frontend Interface
   User input panel (text/voice)
   
@@ -43,7 +44,9 @@ Technical Architecture
   Report Generation Engine: Personalized recommendations and report generation.
 
 
+
 Integrated Technologies
+
   Large Language Model (LLM): Powers dialogue and psychological analysis.
   
   Sentiment Analysis API: Professional emotional state assessment.
@@ -54,5 +57,6 @@ Integrated Technologies
 
 
 Installation and Deployment
+
   Environment Requirements
   Python 3.8+
