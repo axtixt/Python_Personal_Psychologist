@@ -15,7 +15,7 @@ Core Features
 2. Intelligent Psychological Analysis
   NLP Deep Analysis: Utilizes advanced natural language processing techniques to understand user input
   
-  Emotional State Assessment: Identifies the user's current emotional state (levels of anxiety, depression, stress, etc.)
+  Emotional State Assessment: Identifies the user's current emotional state.
   
 3. Personalized Responses
   Real-Time Interactive Dialogue: Provides instant psychological support based on the SoulChat analysis engine
